@@ -246,8 +246,8 @@ export default function Home() {
               alt="nhà mẫu phố 3 tầng"
             />
             <div className="flex flex-col  py-6 px-2 border-b-[1px] border-slate-300 w-full text-center mb-4">
-              <h5 className="text-h5 font-semibold">Làng Yến Kiên Giang</h5>
-              <p>Tỉnh Kiên Giang</p>
+              <h5 className="text-h5 font-semibold">Nhà Phố 3 Tầng</h5>
+              <p>Quận 7, Hồ Chí Minh</p>
             </div>
             <div className="flex items-center gap-4 mb-4">
               <div className="flex items-center gap-2">
@@ -352,8 +352,8 @@ export default function Home() {
               alt="nhà mẫu nhà phố 3 tầng"
             />
             <div className="flex flex-col  py-6 px-2 border-b-[1px] border-slate-300 w-full text-center mb-4">
-              <h5 className="text-h5 font-semibold">Nhà phố Ninh Thuận</h5>
-              <p>Tỉnh Ninh Thuận</p>
+              <h5 className="text-h5 font-semibold">Căn Hộ 2 Phòng Ngủ</h5>
+              <p>Dự án RIO Land</p>
             </div>
             <div className="flex items-center gap-4 mb-4">
               <div className="flex items-center gap-2">
@@ -458,7 +458,7 @@ export default function Home() {
               alt="icon"
             />
             <div className="flex flex-col  py-6 px-2 border-b-[1px] border-slate-300 w-full text-center mb-4">
-              <h5 className="text-h5 font-semibold">Căn hộ Phú Mỹ Hưng</h5>
+              <h5 className="text-h5 font-semibold">Căn Hộ 3 Phòng Ngủ</h5>
               <p>Phú Mỹ Hưng Quận 7</p>
             </div>
             <div className="flex items-center gap-4 mb-4">
@@ -490,7 +490,7 @@ export default function Home() {
                 <span className="text-[14px]">95m2</span>
               </div>
               <div className="border-l-[1px] border-black px-2 text-center ">
-                Căn hộ 2 phòng ngủ
+                Căn hộ 3 phòng ngủ
               </div>
             </div>
             <div className="flex items-center justify-between gap-4">

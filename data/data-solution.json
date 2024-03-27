@@ -302,96 +302,6 @@
         ]
       },
       {
-        "title": " Phòng ngủ 1 và WC",
-        "items": [
-          {
-            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
-            "price": 1790000,
-            "link": ""
-          },
-          {
-            "name": "Công tắc cảm ứng 4 nút Chữ Nhật",
-            "price": 1790000,
-            "link": ""
-          },
-          {
-            "name": "Bộ điều khiển hồng ngoại - điều hoà",
-            "price": 690000,
-            "link": ""
-          },
-          {
-            "name": "Cảm biến chuyển động",
-            "price": 890000,
-            "link": ""
-          }
-        ]
-      },
-      {
-        "title": " Phòng ngủ 2",
-        "items": [
-          {
-            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
-            "price": 1790000,
-            "link": ""
-          },
-          {
-            "name": "Bộ điều khiển hồng ngoại - điều hoà",
-            "price": 690000,
-            "link": ""
-          }
-        ]
-      },
-      {
-        "title": "Phòng ngủ 3 và WC",
-        "items": [
-          {
-            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
-            "price": 1790000,
-            "link": ""
-          },
-          {
-            "name": "Công tắc cảm ứng 4 nút Chữ Nhật",
-            "price": 1790000,
-            "link": ""
-          },
-          {
-            "name": "Bộ điều khiển hồng ngoại - điều hoà",
-            "price": 690000,
-            "link": ""
-          },
-          {
-            "name": "Cảm biến chuyển động",
-            "price": 890000,
-            "link": ""
-          }
-        ]
-      },
-      {
-        "title": "Phòng ngủ 4 và WC",
-        "items": [
-          {
-            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
-            "price": 1790000,
-            "link": ""
-          },
-          {
-            "name": "Công tắc cảm ứng 4 nút Chữ Nhật",
-            "price": 1790000,
-            "link": ""
-          },
-          {
-            "name": "Bộ điều khiển hồng ngoại - điều hoà",
-            "price": 690000,
-            "link": ""
-          },
-          {
-            "name": "Cảm biến chuyển động",
-            "price": 890000,
-            "link": ""
-          }
-        ]
-      },
-      {
         "title": "Phòng sinh hoạt chung ",
         "items": [
           {
@@ -411,6 +321,96 @@
           },
           {
             "name": "Cảm biến cửa",
+            "price": 890000,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Tầng 1: Phòng ngủ 1 và WC",
+        "items": [
+          {
+            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
+            "price": 1790000,
+            "link": ""
+          },
+          {
+            "name": "Công tắc cảm ứng 4 nút Chữ Nhật",
+            "price": 1790000,
+            "link": ""
+          },
+          {
+            "name": "Bộ điều khiển hồng ngoại - điều hoà",
+            "price": 690000,
+            "link": ""
+          },
+          {
+            "name": "Cảm biến chuyển động",
+            "price": 890000,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Tầng 1: Phòng ngủ 2",
+        "items": [
+          {
+            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
+            "price": 1790000,
+            "link": ""
+          },
+          {
+            "name": "Bộ điều khiển hồng ngoại - điều hoà",
+            "price": 690000,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "Tầng 2: Phòng ngủ 3 và WC",
+        "items": [
+          {
+            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
+            "price": 1790000,
+            "link": ""
+          },
+          {
+            "name": "Công tắc cảm ứng 4 nút Chữ Nhật",
+            "price": 1790000,
+            "link": ""
+          },
+          {
+            "name": "Bộ điều khiển hồng ngoại - điều hoà",
+            "price": 690000,
+            "link": ""
+          },
+          {
+            "name": "Cảm biến chuyển động",
+            "price": 890000,
+            "link": ""
+          }
+        ]
+      },
+      {
+        "title": "<b>Tầng 2:</b> Phòng ngủ 4 và WC",
+        "items": [
+          {
+            "name": "Công tắc cảm ứng 3 nút Chữ Nhật",
+            "price": 1790000,
+            "link": ""
+          },
+          {
+            "name": "Công tắc cảm ứng 4 nút Chữ Nhật",
+            "price": 1790000,
+            "link": ""
+          },
+          {
+            "name": "Bộ điều khiển hồng ngoại - điều hoà",
+            "price": 690000,
+            "link": ""
+          },
+          {
+            "name": "Cảm biến chuyển động",
             "price": 890000,
             "link": ""
           }
