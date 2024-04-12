@@ -25,7 +25,7 @@ export default function LoginForm() {
   const searchParams = useSearchParams();
   const urlError =
     searchParams.get("error") === "OAuthAccountNotLinked"
-      ? "Email already in use with different provider!"
+      ? "Đã có lỗi xảy ra vui lòng thử lại!"
       : "";
   const [isPending, startTransition] = useTransition();
   const [error, setError] = useState<string | undefined>("");
