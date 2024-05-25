@@ -5,6 +5,7 @@ import { useCurrentRole } from "@/hook/use-current-role";
 import { logout } from "@/actions/logout";
 import { Button } from "../ui/button";
 import { useRouter } from "next/navigation";
+import { UserRole } from "@prisma/client";
 
 interface RoleGateProps {
   children: React.ReactNode;
