@@ -6,7 +6,7 @@ import { db } from "@/lib/db";
 export const fetchProduct = async () => {
   try {
     const products = await db.product.findMany();
-    products.forEach((product) => {
+    products.forEach((product: any) => {
       if (product.price !== null) {
         product.price = formatToString(product.price);
       }

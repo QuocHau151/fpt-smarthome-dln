@@ -15,15 +15,15 @@ export default auth((req) => {
   const isApiAuthRoute = nextUrl.pathname.startsWith(apiAuthPrefix);
   const IsSalesRoute = salesRoutes.includes(nextUrl.pathname);
   const IsAuthRoute = authRoutes.includes(nextUrl.pathname);
-  if (isApiAuthRoute) {
-    return null;
-  }
-  if (IsAuthRoute) {
-    if (IsLoggedIn) {
-      return Response.redirect(new URL(DEFAULT_LOGIN_REDIRECT, nextUrl));
-    }
-    return null;
-  }
+  // if (isApiAuthRoute) {
+  //   return null;
+  // }
+  // if (IsAuthRoute) {
+  //   if (IsLoggedIn) {
+  //     return Response.redirect(new URL(DEFAULT_LOGIN_REDIRECT, nextUrl));
+  //   }
+  //   return null;
+  // }
   // if (!IsLoggedIn && IsSalesRoute) {
   //   return Response.redirect(new URL("/register", nextUrl));
   // }
