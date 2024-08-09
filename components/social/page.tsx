@@ -42,13 +42,20 @@ export default function SocialConnect() {
     window.open(`https://zalo.me/0775793978`, "_blank");
   };
   return (
-    <div className="fixed z-50 bottom-10 right-6 cursor-pointer flex flex-col gap-6 max-md:bottom-3 max-md:right-3 max-md:gap-3">
+    <div className="fixed z-50 bottom-10 right-6 cursor-pointer flex flex-col gap-3 max-md:bottom-3 max-md:right-3 max-md:gap-3">
+      <a
+        href="tel:0989637974"
+        className="w-12 h-12 bg-green-600 flex items-center justify-center rounded-full animate-bounce"
+      >
+        <FaPhoneAlt color={"white"} size={"22px"} />
+      </a>
       <a
         href="tel:0775793978"
         className="w-12 h-12 bg-green-600 flex items-center justify-center rounded-full animate-bounce"
       >
         <FaPhoneAlt color={"white"} size={"22px"} />
       </a>
+
       <a
         href="https://zalo.me/0906030030"
         target="blank"

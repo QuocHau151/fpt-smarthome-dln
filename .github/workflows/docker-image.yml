@@ -37,4 +37,4 @@ jobs:
             docker pull ghcr.io/quochau151/fptsmarthome:latest
             docker stop fpt-smarthome
             docker rm fpt-smarthome
-            docker run -p 3000:3000  --name fpt-smarthome --restart unless-stopped ghcr.io/quochau151/fptsmarthome:latest
+            docker run -d -p 3000:3000  --name fpt-smarthome --restart unless-stopped ghcr.io/quochau151/fptsmarthome:latest
