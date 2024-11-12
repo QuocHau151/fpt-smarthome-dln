@@ -107,7 +107,6 @@ export default function Footer() {
             Địa chỉ: Lô 37-39A Đường 19, KCX Tân Thuận, Quận 7 TP.Hồ Chí Minh
           </h2>
           <h2> 0775793978 ( Nguyên ) - Hỗ trợ trực tiếp </h2>
-          <h2> 0901237451 ( Tuyết ) - Hỗ trợ trực tiếp</h2>
           <h2> Email: TuyetVTB2@fpt.com </h2>
           <h2> Email: NguyenDL2@fpt.com </h2>
           <Image

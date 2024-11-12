@@ -136,7 +136,6 @@ export default function BaoGia() {
                       ></path>
                     </svg>
                     <div className="flex flex-col gap-0">
-                      <h1 className="px-4 ">0989 637 974</h1>
                       <h1 className="px-4 ">0775 793 978</h1>
                     </div>
                   </Button>
