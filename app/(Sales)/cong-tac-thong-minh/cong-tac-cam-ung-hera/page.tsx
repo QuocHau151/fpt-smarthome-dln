@@ -28,7 +28,7 @@ export default function Page() {
   }, []);
 
   const [selectedOptions, setSelectedOptions] = useState({
-    type: "Chữ nhật",
+    type: "Vuông",
     color: "Black Brown",
     button: "2 nút",
     power: "Thường",
@@ -77,7 +77,7 @@ export default function Page() {
             <div className="basis-1/2 bg-white w-full h-min rounded-2xl">
               {option ? (
                 <Image
-                  className="mx-auto max-md:w-[100px]"
+                  className="mx-auto max-md:w-[100px] lg:py-10"
                   src={option?.image}
                   width={300}
                   height={300}
@@ -107,7 +107,7 @@ export default function Page() {
                       Hình dáng
                     </h4>
                     <div className="grid grid-cols-3">
-                      <div className=" flex items-center min-w-[170px]">
+                      {/* <div className=" flex items-center min-w-[170px]">
                         <input
                           className="min-w-[35px] min-h-[35px]  mr-2 max-md:min-w-[20px] max-md:min-h-[20px]  "
                           type="radio"
@@ -119,7 +119,7 @@ export default function Page() {
                         <label className="text-[18px] font-medium mr-6 max-md:text-[12px]">
                           Chữ <br /> nhật
                         </label>
-                      </div>
+                      </div> */}
                       <div className=" flex items-center min-w-[170px]">
                         <input
                           className="min-w-[35px] min-h-[35px]  mr-2 max-md:min-w-[20px] max-md:min-h-[20px]  "

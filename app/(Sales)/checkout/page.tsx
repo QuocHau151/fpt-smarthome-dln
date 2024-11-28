@@ -103,7 +103,7 @@ export default function Checkout() {
               <p className="">Đơn giá </p>
               <p className="">Số lượng</p>
               <p className="">Số tiền</p>
-              <CiTrash class="w-[25px] h-[25px]" />
+              <CiTrash className="w-[25px] h-[25px]" />
             </div>
             {cart.map((product) => (
               <>
@@ -245,7 +245,7 @@ export default function Checkout() {
               <p className="max-md:hidden">Đơn giá </p>
               <p className="max-md:hidden">Số lượng</p>
               <p className="max-md:hidden">Số tiền</p>
-              <CiTrash class="w-[25px] h-[25px]" />
+              <CiTrash className="w-[25px] h-[25px]" />
             </div>
             {cart.map((product) => (
               <>
